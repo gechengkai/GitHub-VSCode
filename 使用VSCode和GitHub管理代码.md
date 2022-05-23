@@ -19,7 +19,3 @@
 然后提交
 最后推送
 
-- image.png
-- image.png
-- image.png
-- image.png
