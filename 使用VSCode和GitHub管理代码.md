@@ -4,7 +4,8 @@
 >参考：https://www.bilibili.com/video/BV1dK411p7RF?spm_id_from=333.788.top_right_bar_window_default_collection.content.click
 ## 将本地创建的代码推送到GitHub远程库
 ### GitHub端
-创建仓库
+1. 创建仓库
+2. 创建token
 
 ### VSCode端
 1. 创建项目空间，保存项目
